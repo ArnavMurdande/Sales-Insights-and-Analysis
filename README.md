@@ -53,7 +53,3 @@ For any questions or feedback, please reach out to:
 - **Project Maintainer**: Arnav Murdande, Tanishk Ojha
 - **Email**: (arnavmurdande@gmail.com)
              (tanishkojha24@gmail.com)  
-
----
-
-Feel free to adapt this based on the specifics of your "Sales Insight" project!
